@@ -1,6 +1,6 @@
-# LocalJSONKLS
+# mapping-json-review 
 
-LocalJSONKLS is a CASE consuming data from large local jsons.
+mapping-json-review is a CASE consuming data from large local jsons.
 
 ## Technologies
 
